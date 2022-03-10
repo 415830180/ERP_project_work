@@ -1,2 +1,5 @@
-# the_erp
-# ERP_project_work
+erp的课程作业
+
+你输入路径就可以直接得到excel。
+
+地址  https://loveh.club:4769/
